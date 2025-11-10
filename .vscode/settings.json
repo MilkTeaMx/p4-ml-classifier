@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "exception": "cpp"
+        "exception": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "sstream": "cpp"
     }
 }
